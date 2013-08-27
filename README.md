@@ -1,20 +1,16 @@
 # TransliteratePaperclip
 
-TODO: Write a gem description
+Транслитерация кириллических имён файлов для paperclip
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'transliterate_paperclip'
+    gem 'transliterate_paperclip', git: 'git@github.com:Nitrino/transliterate_paperclip.git'
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install transliterate_paperclip
 
 ## Usage
 
