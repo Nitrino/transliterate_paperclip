@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e79082f-0518-441f-84c0-60e30d9604f2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/transliterate_paperclip.iml" afterPath="$PROJECT_DIR$/.idea/transliterate_paperclip.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/transliterate_paperclip.gemspec" afterPath="$PROJECT_DIR$/transliterate_paperclip.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/transliterate_paperclip.rb" afterPath="$PROJECT_DIR$/lib/transliterate_paperclip.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="transliterate_paperclip.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,19 +35,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="transliterate_paperclip.gemspec" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="transliterate_paperclip.gemspec" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/transliterate_paperclip.gemspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="24" selection-start="482" selection-end="530" vertical-scroll-proportion="0.18814139" vertical-offset="0" max-vertical-offset="877">
+            <state line="11" column="24" selection-start="482" selection-end="530" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="10" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
+            <state line="18" column="5" selection-start="184" selection-end="184" vertical-scroll-proportion="0.30786774" vertical-offset="0" max-vertical-offset="877">
               <folding />
             </state>
           </provider>
@@ -77,7 +74,7 @@
       <file leaf-file-name="transliterate_paperclip.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/transliterate_paperclip.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="21" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+            <state line="10" column="5" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
               <folding />
             </state>
           </provider>
@@ -103,8 +100,8 @@
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/transliterate_paperclip.gemspec" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/lib/transliterate_paperclip.rb" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -304,13 +301,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="10" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="40" selection-start="305" selection-end="305" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
@@ -325,16 +315,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/transliterate_paperclip.rb">
+    <entry file="file://$PROJECT_DIR$/transliterate_paperclip.gemspec">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="21" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+        <state line="11" column="24" selection-start="482" selection-end="530" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/transliterate_paperclip.gemspec">
+    <entry file="file://$PROJECT_DIR$/lib/transliterate_paperclip.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="24" selection-start="482" selection-end="530" vertical-scroll-proportion="0.18814139" vertical-offset="0" max-vertical-offset="877">
+        <state line="10" column="5" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="5" selection-start="184" selection-end="184" vertical-scroll-proportion="0.30786774" vertical-offset="0" max-vertical-offset="877">
           <folding />
         </state>
       </provider>
