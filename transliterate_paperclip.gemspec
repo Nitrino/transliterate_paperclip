@@ -6,10 +6,10 @@ require 'transliterate_paperclip/version'
 Gem::Specification.new do |spec|
   spec.name          = "transliterate_paperclip"
   spec.version       = TransliteratePaperclip::VERSION
-  spec.authors       = ["Nitrino"]
+  spec.author        = "Petr Stepchenko"
   spec.email         = ["nitrinodev@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = "Cyrillic transliteration file names to paperclip"
+  spec.summary       = "Cyrillic transliteration file names to paperclip"
   spec.homepage      = ""
   spec.license       = "MIT"
 
