@@ -7,13 +7,13 @@ Transliteration of [paperclip](https://github.com/thoughtbot/paperclip) Cyrillic
 Add this line to your application's Gemfile:
 
 ```ruby
-    gem 'transliterate_paperclip', git: 'git@github.com:Nitrino/transliterate_paperclip.git'
+gem 'transliterate_paperclip', git: 'git@github.com:Nitrino/transliterate_paperclip.git'
 ```
 
 And then execute:
 
 ```ruby
-    $ bundle
+$ bundle
 ```
 
 ## Usage
@@ -21,8 +21,8 @@ And then execute:
 In your model put:
 
 ```ruby
-	has_attached_file :logo, styles: { medium: '130x130>', thumb: '100x100>'}
-	before_post_process { translit_paperclip_file_name self.photo }
+has_attached_file :logo, styles: { medium: '130x130>', thumb: '100x100>'}
+before_post_process { translit_paperclip_file_name self.photo }
 ```
 
 ## Contributing
