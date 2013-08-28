@@ -1,4 +1,4 @@
-require 'transliterate_paperclip/version'
+require 'version'
 require 'russian'
 require 'stringex'
 
