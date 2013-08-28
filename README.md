@@ -12,7 +12,7 @@ gem 'transliterate_paperclip', git: 'git@github.com:Nitrino/transliterate_paperc
 
 And then execute:
 
-```ruby
+```bash
 $ bundle
 ```
 
