@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e79082f-0518-441f-84c0-60e30d9604f2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/transliterate_paperclip.rb" afterPath="$PROJECT_DIR$/lib/transliterate_paperclip.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/transliterate_paperclip/version.rb" afterPath="$PROJECT_DIR$/lib/transliterate_paperclip/version.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/transliterate_paperclip.gemspec" afterPath="$PROJECT_DIR$/transliterate_paperclip.gemspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="transliterate_paperclip.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,7 +39,7 @@
       <file leaf-file-name="transliterate_paperclip.gemspec" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/transliterate_paperclip.gemspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="11" selection-start="853" selection-end="863" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+            <state line="27" column="41" selection-start="1026" selection-end="1026" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
               <folding />
             </state>
           </provider>
@@ -53,10 +54,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="version.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="version.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/transliterate_paperclip/version.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="18" selection-start="48" selection-end="48" vertical-scroll-proportion="0.025125628" vertical-offset="0" max-vertical-offset="597">
+            <state line="1" column="18" selection-start="48" selection-end="48" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="36" selection-start="25" selection-end="25" vertical-scroll-proportion="0.025125628" vertical-offset="0" max-vertical-offset="597">
               <folding />
             </state>
           </provider>
@@ -98,12 +108,12 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/transliterate_paperclip.gemspec" />
         <option value="$PROJECT_DIR$/lib/transliterate_paperclip.rb" />
         <option value="$PROJECT_DIR$/lib/transliterate_paperclip/version.rb" />
+        <option value="$PROJECT_DIR$/transliterate_paperclip.gemspec" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -357,11 +367,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="4" selection-start="149" selection-end="237" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="6" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="360">
@@ -376,16 +381,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/transliterate_paperclip.gemspec">
+    <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="11" selection-start="853" selection-end="863" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+        <state line="3" column="13" selection-start="50" selection-end="58" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
+    <entry file="file://$PROJECT_DIR$/transliterate_paperclip.gemspec">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="13" selection-start="50" selection-end="58" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+        <state line="27" column="41" selection-start="1026" selection-end="1026" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/transliterate_paperclip/version.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="18" selection-start="48" selection-end="48" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="135">
           <folding />
         </state>
       </provider>
@@ -397,9 +409,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/transliterate_paperclip/version.rb">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="18" selection-start="48" selection-end="48" vertical-scroll-proportion="0.025125628" vertical-offset="0" max-vertical-offset="597">
+        <state line="1" column="36" selection-start="25" selection-end="25" vertical-scroll-proportion="0.025125628" vertical-offset="0" max-vertical-offset="597">
           <folding />
         </state>
       </provider>

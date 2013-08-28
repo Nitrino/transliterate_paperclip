@@ -1,6 +1,6 @@
 # TransliteratePaperclip
 
-Транслитерация кириллических имён файлов для paperclip
+Transliteration of [paperclip](https://github.com/thoughtbot/paperclip) Cyrillic file names
 
 ## Installation
 
@@ -14,7 +14,10 @@ And then execute:
 
 ## Usage
 
-TODO: Write usage instructions here
+In your model put:
+
+	has_attached_file :logo, styles: { medium: '130x130>', thumb: '100x100>'}
+	before_post_process { translit_paperclip_file_name self.photo }
 
 ## Contributing
 
