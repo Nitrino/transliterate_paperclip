@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e79082f-0518-441f-84c0-60e30d9604f2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/transliterate_paperclip.iml" afterPath="$PROJECT_DIR$/.idea/transliterate_paperclip.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/transliterate_paperclip.rb" afterPath="$PROJECT_DIR$/lib/transliterate_paperclip.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/transliterate_paperclip/version.rb" afterPath="$PROJECT_DIR$/lib/transliterate_paperclip/version.rb" />
     </list>
@@ -75,7 +74,7 @@
       <file leaf-file-name="transliterate_paperclip.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/transliterate_paperclip.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="41" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+            <state line="14" column="40" selection-start="520" selection-end="520" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
               <folding />
             </state>
           </provider>
@@ -393,7 +392,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/transliterate_paperclip.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="41" selection-start="41" selection-end="41" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="597">
+        <state line="14" column="40" selection-start="520" selection-end="520" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
           <folding />
         </state>
       </provider>
