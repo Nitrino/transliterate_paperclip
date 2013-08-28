@@ -1,6 +1,6 @@
 # TransliteratePaperclip
 
-Transliteration of [paperclip](https://github.com/thoughtbot/paperclip) Cyrillic file names
+Transliteration of [paperclip](https://github.com/thoughtbot/paperclip) Cyrillic file names.
 
 ## Installation
 
@@ -26,3 +26,7 @@ In your model put:
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## License
+
+TransliteratePaperclip is Copyright © 2013 Polonium Arts. It is free software, and may be redistributed under the terms specified in the MIT-LICENSE file.

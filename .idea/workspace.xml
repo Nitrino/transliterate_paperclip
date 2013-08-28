@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4e79082f-0518-441f-84c0-60e30d9604f2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/transliterate_paperclip.gemspec" afterPath="$PROJECT_DIR$/transliterate_paperclip.gemspec" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="transliterate_paperclip.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -66,7 +64,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="36" selection-start="25" selection-end="25" vertical-scroll-proportion="0.025125628" vertical-offset="0" max-vertical-offset="597">
+            <state line="31" column="73" selection-start="805" selection-end="805" vertical-scroll-proportion="0.7788945" vertical-offset="0" max-vertical-offset="597">
               <folding />
             </state>
           </provider>
@@ -411,7 +409,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="36" selection-start="25" selection-end="25" vertical-scroll-proportion="0.025125628" vertical-offset="0" max-vertical-offset="597">
+        <state line="31" column="73" selection-start="805" selection-end="805" vertical-scroll-proportion="0.7788945" vertical-offset="0" max-vertical-offset="597">
           <folding />
         </state>
       </provider>
