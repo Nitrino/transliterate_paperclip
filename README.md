@@ -35,4 +35,4 @@ before_post_process { translit_paperclip_file_name self.photo }
 
 ## License
 
-TransliteratePaperclip is Copyright © 2013 [Polonium Arts](http://poloniumarts.com/). It is free software, and may be redistributed under the terms specified in the MIT-LICENSE file.
+TransliteratePaperclip is Copyright © 2013 [Polonium Arts](http://poloniumarts.com/). It is free software, and may be redistributed under the terms specified in the MIT license.
